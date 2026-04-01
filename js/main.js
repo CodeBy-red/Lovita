@@ -40,14 +40,14 @@ const produtos = [
         nome: "Chaveiros personalizados",
         categoria: "Cadernetas",
         preco: "25,00",
-        imagem: "img/Produto_5_chaveiro.png"
+        imagem: "img/produto_5_chaveiro.png"
     },
         {
         id: 6,
         nome: "Adesivos para controle de entrega",
         categoria: "Cadernetas",
         preco: "25,00",
-        imagem: "img/Produto_6_adesivoentrega.png"
+        imagem: "img/produto_6_adesivoentrega.png"
     }
     
 ];
