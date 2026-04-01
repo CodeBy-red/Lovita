@@ -1,0 +1,13 @@
+{
+  "name": "lovita-papelaria",
+  "version": "1.0.0",
+  "description": "Site da Lovita Papelaria - Vitrine digital",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": ["papelaria", "personalizada", "vitrine"],
+  "author": "Lovita Papelaria",
+  "license": "MIT"
+}
